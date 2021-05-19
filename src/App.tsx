@@ -12,7 +12,7 @@ import Photo from './components/Photos';
 export default function App() {
   return (
     <Router>
-      <nav>
+      <nav >
         <NavLink to="/" exact>
           Home
         </NavLink>
